@@ -25,7 +25,7 @@
 	<scm>
 		<url>https://github.com/stavrosp/github-maven-example</url>
 		<connection>scm:git:https://github.com/stavrosp/github-maven-example.git</connection>
-		<developerConnection>scm:git:https://github.com/stavrosp/github-maven-example.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:stavrosp/github-maven-example.git</developerConnection>
 	</scm>
 
 	<developers>
